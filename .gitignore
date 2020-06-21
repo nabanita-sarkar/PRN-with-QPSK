@@ -1,0 +1,9 @@
+/.env
+/.git
+/.vscode
+/a.exe
+/command-for-venv.txt
+/extra.py
+/pseudo-random.c
+/pseudo.py
+/__pycache__
